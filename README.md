@@ -2,7 +2,7 @@
 
 1.
 SECURE ANNEX:
-App.Secureannex.com
+www.App.Secureannex.com
 
 Secure Annex is a browser extension security platform designed to analyze and monitor Chrome extensions across an organization's endpoints.
 
