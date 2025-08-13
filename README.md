@@ -10,3 +10,6 @@ Secure Annex is a browser extension security platform designed to analyze and mo
 - Risk Assessment & Policy Enforcement – It evaluates extensions for security risks based on predefined policies, permission analysis, and external threat intelligence sources. Admins can enforce rules to block or allow extensions.
 - Real-time Monitoring & Alerts – It continuously monitors for new or modified extensions and alerts security teams when risky or unauthorized extensions are detected.
 
+2.
+DIGITAL DEFENSE: Personal Security Checklist
+https://digital-defense.io/
